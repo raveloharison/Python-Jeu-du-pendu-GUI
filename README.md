@@ -14,8 +14,8 @@ Hangman game coded with python / tkinter
 
 - main.py is the main program
 
-- functions.py contains the functions useful for the program
+- fonctions.py contains the functions useful for the program
 
-- rule.py contains the rule window that the player should know
+- regle.py contains the rule window that the player should know
 
-- givePlayer is the file which contains the dictionary type variable which will save the score and the name of the player
+- donneJoueur is the file which contains the dictionary type variable which will save the score and the name of the player

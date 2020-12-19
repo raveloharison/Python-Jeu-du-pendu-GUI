@@ -8,8 +8,7 @@ Jeu du pendu codé avec python / tkinter
 
 - donneJoueur est le fichier qui contient la variable de type dictionnaire qui permettra de sauvegarder le score et le nom du joueur
 
-
-
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Hangman game coded with python / tkinter
 
